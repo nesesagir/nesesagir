@@ -13,7 +13,7 @@ I enjoy building real software end to end — from backend logic to interfaces a
 `Python` · `JavaScript` · `FastAPI` · `SQL` · `Git` · `Docker`
 
 ## Featured project
-**MEB AI Asistan** — an end-to-end voice assistant prototype
+**[MEB AI Asistan](https://github.com/nesesagir/meb-ai-asistan)** — an end-to-end voice assistant prototype
 
 ## Contact
 - LinkedIn: [Neşe Sağır](https://www.linkedin.com/in/neşe-sağır-b2016a334)
