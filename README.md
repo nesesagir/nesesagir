@@ -1,20 +1,19 @@
 ﻿# Hi, I'm Neşe Sağır
 
 Software Engineering student (3rd year) at **Antalya Belek University**.  
-I enjoy building real software end to end — from backend logic to interfaces and connected devices.
+I build end-to-end software: APIs, web/mobile apps, and firmware on device.
 
-## Interests
-- Artificial intelligence applications
-- Backend / API development
-- Embedded systems and IoT
-- Turning ideas into working demos
+## Projects
 
-## Currently learning & building with
-`Python` · `JavaScript` · `FastAPI` · `SQL` · `Git` · `Docker`
+- **[Akıllı Fiyat Takip](https://github.com/nesesagir/akilli-fiyat-takip)** — save product links, track prices, get an email at your target. [Live demo](https://akilli-fiyat-takip.vercel.app)
+- **[MEB AI Asistan](https://github.com/nesesagir/meb-ai-asistan)** — voice assistant on ESP32 with FastAPI + RAG
+- **[Nodak](https://github.com/nesesagir/nodak)** — number-logic puzzle on Android (Google Play review in progress)
 
-## Featured project
-**[MEB AI Asistan](https://github.com/nesesagir/meb-ai-asistan)** — an end-to-end voice assistant prototype
+## Stack
+
+`C#` · `.NET` · `Next.js` · `Python` · `FastAPI` · `React Native` · `Expo` · `ESP32` · `SQL` · `Docker` · `Git`
 
 ## Contact
+
 - LinkedIn: [Neşe Sağır](https://www.linkedin.com/in/neşe-sağır-b2016a334)
 - Email: [nesessagir@gmail.com](mailto:nesessagir@gmail.com)
