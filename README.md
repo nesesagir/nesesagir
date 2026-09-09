@@ -8,6 +8,7 @@ I build end-to-end software: APIs, web/mobile apps, and firmware on device.
 - **[Üretken Yüz Kası Klavyesi](https://github.com/nesesagir/uretken-yuz-kasi-klavyesi)** — web AAC: select keywords with facial muscles; Gemini writes one Turkish sentence. [Live demo](https://uretken-klavye.vercel.app)
 - **[Akıllı Fiyat Takip](https://github.com/nesesagir/akilli-fiyat-takip)** — save product links, track prices, get an email at your target. [Live demo](https://akilli-fiyat-takip.vercel.app)
 - **[MEB AI Asistan](https://github.com/nesesagir/meb-ai-asistan)** — voice assistant on ESP32 with FastAPI + RAG
+- **[Bilge Asistan](https://github.com/nesesagir/bilge-asistan)** — PHP chatbot with MySQL knowledge base and RAG via OpenAI API
 - **[Nodak](https://github.com/nesesagir/nodak)** — number-logic puzzle on Android (Google Play review in progress)
 
 ## Stack
