@@ -9,7 +9,7 @@ I build end-to-end software: APIs, web/mobile apps, and firmware on device.
 - **[Akıllı Fiyat Takip](https://github.com/nesesagir/akilli-fiyat-takip)** — save product links, track prices, get an email at your target. [Live demo](https://akilli-fiyat-takip.vercel.app)
 - **[MEB AI Asistan](https://github.com/nesesagir/meb-ai-asistan)** — voice assistant on ESP32 with FastAPI + RAG
 - **[Bilge Asistan](https://github.com/nesesagir/bilge-asistan)** — PHP chatbot with MySQL knowledge base and RAG via OpenAI API
-- **[Nodak](https://github.com/nesesagir/nodak)** â€” number-logic puzzle on Android. [Google Play](https://play.google.com/store/apps/details?id=com.nodak.puzzle)
+- **[Nodak](https://github.com/nesesagir/nodak)** - number-logic puzzle on Android. [Google Play](https://play.google.com/store/apps/details?id=com.nodak.puzzle)
 
 ## Stack
 
